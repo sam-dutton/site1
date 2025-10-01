@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sam-dutton.github.io/site1/source-2.html</loc>
+    <lastmod>2025-10-01T15:41:17.432Z</lastmod>
+  </url>
+  <url>
     <loc>https://sam-dutton.github.io/site1/index.html</loc>
     <lastmod>2025-10-01T15:28:31.026Z</lastmod>
   </url>
   <url>
     <loc>https://sam-dutton.github.io/site1/about.html</loc>
     <lastmod>2025-10-01T15:32:34.620Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sam-dutton.github.io/site1/source-1.html</loc>
+    <lastmod>2025-10-01T15:41:03.618Z</lastmod>
   </url>
 </urlset>
